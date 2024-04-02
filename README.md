@@ -1,3 +1,3 @@
 # Cognorise-infotech
 task1 - customer personality analysis
-task2 - 
+task2 - employee salaries
